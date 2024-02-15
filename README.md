@@ -14,6 +14,10 @@
   <a href="https://sketchfab.com/Enzeruk"><img src="https://img.shields.io/badge/sketchfab-%231CAAD9.svg?&style=for-the-badge&logo=sketchfab&logoColor=white" /></a>
 </p>
 
+<div align="center">
+	<img src="badge.svg">
+</div>
+
 ---
 
 ### 👩‍💻 Programming Languages
